@@ -1,0 +1,40 @@
+/* Style the header container */
+header {
+    background-color: #333; /* Header background color */
+    color: #fff; /* Text color */
+    padding: 10px 0; /* Padding for top and bottom */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style the logo */
+.logo img {
+    max-width: 100px; /* Adjust the logo width as needed */
+    height: auto;
+    margin-left: 20px; /* Add margin to separate the logo from the navigation */
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px; /* Add spacing between menu items */
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* Menu item text color */
+    font-weight: bold;
+    font-size: 16px; /* Adjust the font size as needed */
+}
+.w3{
+    width: 70px;
+    height: 70px;
+}
+.cv{
+    background-color: #333;
+}

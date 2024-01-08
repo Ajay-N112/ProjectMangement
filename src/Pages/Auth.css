@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@500&family=Dela+Gothic+One&family=Kanit:wght@700&family=Kdam+Thmor+Pro&family=Oswald:wght@200&family=Roboto+Condensed:wght@500&family=Roboto:wght@300;900&family=Vina+Sans&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@500&family=Dela+Gothic+One&family=Kanit:wght@700&family=Kdam+Thmor+Pro&family=Lexend:wght@300;900&family=Oswald:wght@200&family=Roboto+Condensed:wght@500&family=Roboto:wght@300;900&family=Vina+Sans&display=swap');
+.zx{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+}
+.gg{
+  margin-bottom: 200px;
+}
+.vvt{
+  /* Offset-x | Offset-y | Blur-radius | Spread-radius | Color */
+box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+
+}

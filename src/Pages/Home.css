@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@500&family=Dela+Gothic+One&family=Kanit:wght@700&family=Oswald:wght@200&family=Roboto+Condensed:wght@500&family=Roboto:wght@300;900&display=swap');
+
+.b1{
+ /* background-image: url('https://i.postimg.cc/1zMYpKGg/image-asset-80.jpg'); */
+ background-color: #9dcfc0;
+ background-size: cover;
+    padding: 50px;
+    justify-content: space-around;
+
+}
+.b2{
+ 
+    text-align:center;
+color: black;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Dela Gothic One', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+}
+.img1{
+   
+height:400px;
+float: inline-end;
+width: 600px;
+}
+.bb1{
+    background-color: #66e8e4;
+}
+.b3{
+    
+}
+.m2{
+    color: black;
+    font-size: larger;
+}

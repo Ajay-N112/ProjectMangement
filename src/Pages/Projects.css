@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@500&family=Dela+Gothic+One&family=Kanit:wght@700&family=Oswald:wght@200&family=Roboto+Condensed:wght@500&family=Roboto:wght@300;900&display=swap');
+
+.hh1{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Dela Gothic One', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+   background-image: url('https://i.postimg.cc/Ss6kTxST/very-pale-green-free-solidcolor-background.jpg');
+}
+.inn1{
+   text-align: center;
+}
+.zze{
+
+}
